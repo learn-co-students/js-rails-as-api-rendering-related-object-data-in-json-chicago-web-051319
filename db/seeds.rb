@@ -10,3 +10,5 @@ bird_a = Bird.create(name: "Black-Capped Chickadee", species: "Poecile Atricapil
 bird_b = Bird.create(name: "Grackle", species: "Quiscalus Quiscula")
 bird_c = Bird.create(name: "Common Starling", species: "Sturnus Vulgaris")
 bird_d = Bird.create(name: "Mourning Dove", species: "Zenaida Macroura")
+
+#no locations / sightings, basic tests completed
